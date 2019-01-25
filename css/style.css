@@ -4,8 +4,10 @@ header{
 
 main{
 	border:1em solid blue;
+	background-color:pink;
 }
 
 footer{
 	border:1em solid green;
+	background-color:mint;
 }
