@@ -3,9 +3,9 @@ header{
 }
 
 main{
-	border:1em solid bleu;
+	border:1em solid blue;
 }
 
-footer{
+main{
 	border:1em solid green;
 }
