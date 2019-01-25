@@ -1,3 +1,11 @@
 header{
 	background-color:red;
 }
+
+main{
+	border:1em solid bleu;
+}
+
+footer{
+	border:1em solid green;
+}
